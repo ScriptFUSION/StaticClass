@@ -1,0 +1,15 @@
+{
+  "name": "scriptfusion/static-class",
+  "description": "Prevents class instantiation.",
+  "authors": [
+    {
+      "name": "Bilge",
+      "email": "bilge@scriptfusion.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ScriptFUSION\\": "src"
+    }
+  }
+}
