@@ -1,6 +1,7 @@
 {
   "name": "scriptfusion/static-class",
   "description": "Prevents class instantiation.",
+  "license": "MIT",
   "authors": [
     {
       "name": "Bilge",
